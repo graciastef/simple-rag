@@ -7,4 +7,4 @@ The workflow supports **tool-based retrieval**, **optional question rewriting**,
 - Uses LangGraph to route between:
   - **direct response** (if no retrieval needed)
   - **retrieve relevant chunks from a vector store → grade → (rewrite & retry OR generate answer)**
-- Generates a short, grounded response using retrieved context
+- Generates a short esponse using retrieved context
