@@ -1,0 +1,7 @@
+.*
+!.gitignore
+
+__pycache__
+
+# ignore files in document folder
+/documents

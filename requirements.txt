@@ -1,0 +1,11 @@
+langgraph
+langchain-community
+langchain-text-splitters
+langsmith
+langchain-mongodb
+langchain-mistralai
+python-dotenv~=1.1.0
+langchain~=0.3.25
+pymongo~=4.13.0
+pypdf
+langchain-ollama
